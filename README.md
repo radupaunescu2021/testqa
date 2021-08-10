@@ -2,6 +2,7 @@
 
 Sample testing project with python bdd behave of web page https://www.demoblaze.com/
 
+**How to:**
 
 Clone repository
 
