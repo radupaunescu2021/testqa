@@ -35,13 +35,13 @@ Testing techniques should consist of the following
 
   Critical features that need functional testing include:
 
-  **Login system**
-  **Search and filters**
-  **Order details page**
-  **Shopping cart**
-  **Order confirmation page**
-  **Order tracking*
-  **Payment** 
+  **Login system**  
+  **Search and filters**  
+  **Order details page**  
+  **Shopping cart**  
+  **Order confirmation page**  
+  **Order tracking**  
+  **Payment**   
 
 2. Performance testing  to analyze an application’s speed, scalability, and stability under varying user loads. 
 
