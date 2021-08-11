@@ -43,8 +43,6 @@ Testing techniques should consist of the following
   **Order tracking**  
   **Payment**   
 
-
-
 2. Performance testing  to analyze an application’s speed, scalability, and stability under varying user loads. 
 
 3. Usability testing checks whether the website offers an optimal user experience to a typical user. 
