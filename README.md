@@ -59,16 +59,16 @@ Testing techniques should consist of the following
 
 **Test cases by category
 
-1. General Test Cases
-    Clear visibility of the product, price, category name, price, company logo, and product description
-    Are all the category pages have a relevant product listed specifically for the category
-
-2.Homepage Test Cases
-3.Search products Test Cases
-4.Payment test cases
-5.Shopping cart test cases
-  Add,remove produtcs
-6.Post order test cases
-  Cancel,change order
+1. General Test Cases  
+    Clear visibility of the product, price, category name, price, company logo, and product description  
+    Are all the category pages have a relevant product listed specifically for the category  
+   
+2.Homepage Test Cases  
+3.Search products Test Cases  
+4.Payment test cases  
+5.Shopping cart test cases  
+  Add,remove produtcs  
+6.Post order test cases  
+  Cancel,change order  
   
 
