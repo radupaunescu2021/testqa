@@ -19,17 +19,11 @@ For Junit reports add **--junit** parameter
 
 **behave -n "Add laptops to cart,remove and pay" --no-logcapture --junit**  
   
-    
-      
-        
-          
-          
-
-
-
-
-
-
+  
+  
+  
+  
+  
 
 **E-commerce testing approach**
 
