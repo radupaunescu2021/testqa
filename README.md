@@ -35,20 +35,20 @@ Testing techniques should consist of the following
 
   Critical features that need functional testing include:
 
-  **Login system
-  Search and filters
-  Order details page
-  Shopping cart
-  Order confirmation page
-  Order tracking
+  **Login system,
+  Search and filters,
+  Order details page,
+  Shopping cart,
+  Order confirmation page,
+  Order tracking,
   Payment** 
 
 2. Performance testing  to analyze an application’s speed, scalability, and stability under varying user loads. 
 
 3. Usability testing checks whether the website offers an optimal user experience to a typical user. 
 
- **Easyness of navigating the website
-  Clarity of content
+ **Easyness of navigating the website,
+  Clarity of content,
   Core functions are easy to use**
 
 4.Security Testing
