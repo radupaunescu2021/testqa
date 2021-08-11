@@ -17,7 +17,13 @@ From inside testingPythonBehave folder open terminal
 For Junit reports add **--junit** parameter
 
 
-**behave -n "Add laptops to cart,remove and pay" --no-logcapture --junit**
+**behave -n "Add laptops to cart,remove and pay" --no-logcapture --junit**  
+  
+    
+      
+        
+          
+          
 
 
 
@@ -43,13 +49,15 @@ Testing techniques should consist of the following
   **Order tracking**  
   **Payment**   
 
+
+
 2. Performance testing  to analyze an application’s speed, scalability, and stability under varying user loads. 
 
 3. Usability testing checks whether the website offers an optimal user experience to a typical user. 
 
- **Easyness of navigating the website,
-  Clarity of content,
-  Core functions are easy to use**
+ **Easyness of navigating the website**  
+ **Clarity of content**  
+ **Core functions are easy to use**  
 
 4.Security Testing
 5. Exploratory  Testing
