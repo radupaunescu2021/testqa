@@ -20,7 +20,9 @@ For Junit reports add **--junit** parameter
 **behave -n "Add laptops to cart,remove and pay" --no-logcapture --junit**  
   
   
-  
+ &nbsp;  
+ &nbsp;  
+ &nbsp;  
   
   
   
@@ -31,7 +33,7 @@ The main objective of testing is to determine how well shopping website fulfill 
 
 Testing techniques should consist of the following 
 
-1 .Functional testing helps uncover critical bugs that can ruin the customer experience ,validating that all features work according to requirements.
+1.Functional testing helps uncover critical bugs that can ruin the customer experience ,validating that all features work according to requirements.
 
   Critical features that need functional testing include:
 
@@ -43,21 +45,21 @@ Testing techniques should consist of the following
   **Order tracking**  
   **Payment**   
 
-2. Performance testing  to analyze an application’s speed, scalability, and stability under varying user loads. 
+2.Performance testing  to analyze an application’s speed, scalability, and stability under varying user loads. 
 
-3. Usability testing checks whether the website offers an optimal user experience to a typical user. 
+3.Usability testing checks whether the website offers an optimal user experience to a typical user. 
 
  **Easyness of navigating the website**  
  **Clarity of content**  
  **Core functions are easy to use**  
 
 4.Security Testing
-5. Exploratory  Testing
-6. Integration testing
+5.Exploratory  Testing
+6.Integration testing
 
-**Test cases by category
+**Test cases by category**
 
-1. General Test Cases  
+1.General Test Cases  
     Clear visibility of the product, price, category name, price, company logo, and product description  
     Are all the category pages have a relevant product listed specifically for the category  
    
@@ -67,6 +69,6 @@ Testing techniques should consist of the following
 5.Shopping cart test cases  
   Add,remove produtcs  
 6.Post order test cases  
-  Cancel,change order  
+   Cancel,change order  
   
 
